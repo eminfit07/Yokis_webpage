@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Lora';
+    font-style: Medium;
+    font-weight: 300;
+    src: url('../Fonts/Lora-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Lora';
+    font-style: Bold;
+    font-weight: 600;
+    src: url('../Fonts/Lora-Bold.ttf');
+}
+.font-Lora {
+    font-family: 'Lora', Arial, Helvetica, sans-serif;
+}Noto_Serif/static/NotoSerif_ExtraCondensed-Black.ttf

@@ -1,0 +1,22 @@
+.bg-g{
+    background-color: rgb(243, 244, 246);
+}
+
+.c1{
+    height: 60px;
+    width: 60px;
+}
+.bg-green{
+    background-color: rgb(red, rgb(40, 168, 74), blue);
+}
+
+
+.max{
+    max-height: 120px;
+    background: linear-gradient(to right, #ffe259, #ffa751);
+}
+.men{
+    width: 80px;
+    height: 80px;
+    
+}
